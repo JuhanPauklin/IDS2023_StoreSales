@@ -1,5 +1,5 @@
 # IDS2023_StoreSales
-Intro. to Data Science project  
+Introduction to Data Science project  
 Authors: Kristjan Radsin, Joonas Tiitson, Juhan Pauklin  
 Link to the Kaggle competition: https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data  
 Some ideas to answer or goals to achieve:  
