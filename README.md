@@ -9,3 +9,4 @@ Predict sale numbers based on oil price and holidays. Perform trend analysis
 What products are more bought in which cities? When do sales have the most impact?  
 What’s the impact of holidays and events on sales?  
 How correlates the price of oil to purchases of different product families?  
+https://docs.google.com/document/d/1B03n_N8diU5wAB-2pq0I0ZFJjaJSZ2GmqN44Rpoj0n8/edit
