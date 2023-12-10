@@ -13,6 +13,6 @@ and to identify how seasonality, promotions and oil prices influence the sale of
 Link to report: https://docs.google.com/document/d/1B03n_N8diU5wAB-2pq0I0ZFJjaJSZ2GmqN44Rpoj0n8/edit  
 
 ## Code  
-Project_StoreSales.ipynb should be run first to create a merged dataset merged_train.csv
-Then KNN training.ipynb, Random_forest_training.ipynb and Arima training.ipynb can be run to train the models  
+Project_StoreSales.ipynb should be run first to create a merged dataset merged_train.csv.  
+Then KNN training.ipynb, Random_forest_training.ipynb and Arima training.ipynb can be run to train the models.  
 Lastly PlotsforPresentation.ipynb is used to create plots from which data can be examined visually.  
