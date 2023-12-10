@@ -1,12 +1,13 @@
 # IDS2023_StoreSales
 Introduction to Data Science project  
 Authors: Kristjan Radsin, Joonas Tiitson, Juhan Pauklin  
+
 Link to the Kaggle competition: https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data  
-Some ideas to answer or goals to achieve:  
-Predict sales for the thousands of product families sold at Favorita stores located in Ecuador.  
-Balance the data and regularize it.  
-Predict sale numbers based on oil price and holidays. Perform trend analysis  
-What products are more bought in which cities? When do sales have the most impact?  
-What’s the impact of holidays and events on sales?  
-How correlates the price of oil to purchases of different product families?  
-https://docs.google.com/document/d/1B03n_N8diU5wAB-2pq0I0ZFJjaJSZ2GmqN44Rpoj0n8/edit
+
+Being able to predict sale numbers allows vendors to optimise inventory management and improve overall operational efficiency.  
+In our project we worked on a dataset from Kaggle that contains information regarding sales for the thousands of product families sold at Favorita stores located in Ecuador.  
+  
+The objective of this project was to to use different machine learning techniques to forecast the number of sales of a product based on the specifications of its status  
+and to identify how seasonality, promotions and oil prices influence the sale of products.  
+  
+Link to report: https://docs.google.com/document/d/1B03n_N8diU5wAB-2pq0I0ZFJjaJSZ2GmqN44Rpoj0n8/edit
